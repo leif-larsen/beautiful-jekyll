@@ -7,7 +7,8 @@ comments: true
 image: /img/
 ---
     
-    Monday night I arrived in London, ready to attend [.NET Best Practices and Design Patterns](http://blog.leiflarsen.org/heading-to-london-to-attend-a-course/). Yesterday we had our first day. In the classroom we're 9 students, and there's three attending online. There was about an hour of introductions and practical information before we dived into the first module of the course, so lets do the same here.
+Monday night I arrived in London, ready to attend [.NET Best Practices and Design Patterns](http://blog.leiflarsen.org/heading-to-london-to-attend-a-course/). Yesterday we had our first day. In the classroom we're 9 students, and there's three attending online. There was about an hour of introductions and practical information before we dived into the first module of the course, so lets do the same here.
+
 ##Chapter 1
 ###Facade Pattern
 The facade pattern is a pattern that aims to make something complex easy to use. Basically what is does is to provide an unified interface to a set of interfaces in a (sub)system. It does not however give exclusive way to access these interfaces, so you can access them directly. For it to provide any value it shouldn't be used if you're using something once, but the second time you're using something, you should consider if the facade pattern may be applicable.

@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/07/CortanaIntelligenceSuite.jpg
 ---
     
-    As the world gets increasingly more data power, we are enabled to do more things (in the lack of better words). One of those things is to make computers and applications more intelligent, and Microsoft have created a series of API's to help doing so. Using Microsoft Cognitive Services you're able to do use a whole bunch of API's, ranging from translation, searching, language-based and facial recognition. I find a lot of them interesting, especially the Face API, which I'll spend some time taking a closer look at. 
+As the world gets increasingly more data power, we are enabled to do more things (in the lack of better words). One of those things is to make computers and applications more intelligent, and Microsoft have created a series of API's to help doing so. Using Microsoft Cognitive Services you're able to do use a whole bunch of API's, ranging from translation, searching, language-based and facial recognition. I find a lot of them interesting, especially the Face API, which I'll spend some time taking a closer look at. 
 
 This post is the first post, in a series of posts, where the ultimate goal is to achieve enough knowledge of the Face API to use it for a IoT smart home project. In this post I will cover some basic glossary, with terms that may be defined in other ways than we're used to. I'll touch on how to sign up for a free preview of the API, the basics of our app and at last I'll show you how to identify faces in images.
 
@@ -64,7 +64,7 @@ You can also purchase the same subscription on Azure, by clicking the button to 
 ##Marking a face
 For the app you'll want to create a new UWP app. Two additional NuGet packages is needed; Newtonsoft.JSON and Microsoft.ProjectOxford.Face, so go on to add those to the app. We'll create everything we need in this example in the MainPage.xaml, and the code-behind file, MainPage.xaml.cs. The UI will be rather simple, just a canvas for our image, two buttons and a status label. Add the following to MainPage.xaml:
 
-```language-csharp
+```csharp
 <Grid.RowDefinitions>
     <RowDefinition Height="*" />
     <RowDefinition Height="50" />
@@ -84,7 +84,7 @@ For the app you'll want to create a new UWP app. Two additional NuGet packages i
 The browse button simply finds an image and loads it to the view. Clicking "Find face..." will make a call to the _Face API_ and when the result is returned, put a green square around the face, if there is any.
 
 In the code behind the first thing needed is to add an object for the face service client. Do that like this: 
-```language-csharp
+```csharp
 private readonly IFaceServiceClient _faceServiceClient = new FaceServiceClient("YOUR_API_KEY");
 ```
 
@@ -92,7 +92,7 @@ Make sure you have added reference and using statement for Microsoft.ProjectOxfo
 
 For the browse button, I have shamelessly copied example code for a file picker from Suresh-m, found <a href="https://code.msdn.microsoft.com/File-Picker-in-Windows-10-846c2116" target="_blank">here</a>. It looks like this:
 
-```language-csharp
+```csharp
 private StorageFile _imageFile;
 
 private async void BrowseButton_Click(object sender, RoutedEventArgs e)
@@ -145,7 +145,7 @@ private async void BrowseButton_Click(object sender, RoutedEventArgs e)
 
 Now, on to the fun part. We need to make a call to the _Face API_ to send the image to the service, and retrieve a result with a _face_ back, if it exists. The code to do this is like this:
 
-```language-csharp
+```csharp
 private async void FindFaceButton_Click(object sender, RoutedEventArgs e)
 {
     FaceRectangle[] faceRects = await UploadAndDetectFaces();

@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    Last week NDC took place in Oslo. Unfortunately I were not able to attend this year, but I were able to attend PubConf, which took place the day after NDC ended. 
+Last week NDC took place in Oslo. Unfortunately I were not able to attend this year, but I were able to attend PubConf, which took place the day after NDC ended. 
 
 ##The what
 >Not quite a conference;<br />

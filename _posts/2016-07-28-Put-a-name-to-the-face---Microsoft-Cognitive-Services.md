@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/07/CortanaIntelligenceSuite-1.jpg
 ---
     
-    This is the second post in a series of posts, where we'll look into Microsoft Cognitive Services. More specifically we're looking at the _Face API_, and what that can do for us in terms of identifying people. The end goal is to connect a web camera to a Raspberry Pi, grab an image of a person, identify that person and show the name on a screen.
+This is the second post in a series of posts, where we'll look into Microsoft Cognitive Services. More specifically we're looking at the _Face API_, and what that can do for us in terms of identifying people. The end goal is to connect a web camera to a Raspberry Pi, grab an image of a person, identify that person and show the name on a screen.
 
 In the <a href="http://blog.leiflarsen.org/getting-started-with-microsoft-cognitive-services-face-api/" target="_blank">first post</a> we described some basic terms one should know and we looked at how you could get API keys for the _Face API_. We also looked into detecting faces in an image, where we marked a face with a square. If this is the first post you're reading in this series, I highly suggest you read the <a href="http://blog.leiflarsen.org/getting-started-with-microsoft-cognitive-services-face-api/" target="_blank">first post</a>, as we'll continue building on the app we started on there.
 
@@ -16,7 +16,7 @@ All the source code used in this post can be found over at <a href="https://gith
 ## Updating the app
 In the previous post we created a simple UI for our app. It consisted of a canvas, two buttons and a status field. To extend the functionality we're going to add a few elements to that app; Three buttons and a new text field. To achieve this, you'll want to add two new rows to your grid, and add the following XAML for the new elements:
 
-```language-csharp
+```csharp
 <Button x:Name="GeneratePersonGroupButton" Content="Generate group" Grid.Row="2" Grid.Column="0" Width="130" HorizontalAlignment="Center" Click="GeneratePersonGroupButton_Click" />
 <Button x:Name="TrainGroupButton" Content="Train group" Grid.Row="2" Grid.Column="1" Width="100" HorizontalAlignment="Center" Click="TrainGroupButton_Click" />
 <Button x:Name="IdentifyFace" Content="Identify" Click="IdentifyFace_Click" Grid.Row="2" Grid.Column="2" Width="100" HorizontalAlignment="Left" />
@@ -27,7 +27,7 @@ The buttons describe what we're going to do, to be able to identify a face. The 
 
 ## Create persons
 One of the key components to be able to identify a person is to have a person group with persons in it. For this example, we'll create one person group. To do this you'll need a variable for the _FaceServiceClient_ (as we created last time), and you'll also need to define a string with the person group id. So to create the person group you'll need to do the following:
-```language-csharp
+```csharp
 private readonly IFaceServiceClient _faceServiceClient = new FaceServiceClient("API_KEY_HERE");
 private const string _personGroupId = "family3";
 
@@ -40,12 +40,12 @@ As you may see, the two first lines is at class level, while the last line is wi
 In the source code, you'll notice I am doing some checking to check if the person group exist or not. This is simply since you can't have two groups with the same person group id.
 
 Moving on you'll need to create the persons that should be in that group. This can be done like this:
-```langauge-csharp
+```csharp
 var lady3 = await _faceServiceClient.CreatePersonAsync(_personGroupId, "Lily");
 ```
 
 When a person has been created in a given person group, it is time to associate some images with that person. First off you need to get hold of the sample photos to use. They are present in the repository for this project, but if you're following along with your own project, they can be found <a href="https://github.com/Microsoft/Cognitive-Face-Windows/tree/master/Data" target="_blank">here</a>. In this example we'll just hardcode the path for the images needed, and the association between images and persons, but you'll get the idea behind it from the following code:
-```language-csharp
+```csharp
 string lady3ImageDir = @"./PersonGroup/Family3-Lady/";
 
 foreach(var path in Directory.GetFiles(lady3ImageDir, "*.jpg"))
@@ -61,7 +61,7 @@ When all the necessary persons have been added to a person group it is time to t
 
 ## Train the person group
 Training a person group is important to be able to perform an identification on that person group. This step is required if you add new persons, if you remove persons or edit the face of any persons registered. To train a person group you need to add one line of code. However, we'll add some more code, so we're able to determine if the training process is done or not. Add the following to the click event of the button named "TrainGroupButton":
-```language-csharp
+```csharp
 await _faceServiceClient.TrainPersonGroupAsync(_personGroupId);
 
 TrainingStatus status = null;
@@ -92,7 +92,7 @@ The last step is to write the code required to identify faces. The steps require
 5. Map the results to a person in the person group
 
 In our example we'll go through these steps, and print the names of identified persons to the text field we added to the UI. Add the following code to the "IdentifyFace" button's click handler:
-```language-csharp
+```csharp
 using (Stream s = await _imageFile.OpenStreamForReadAsync())
 {
     var faces = await _faceServiceClient.DetectAsync(s);

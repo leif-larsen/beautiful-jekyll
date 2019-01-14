@@ -56,7 +56,7 @@ As requested in the comments, I want to make an addition to this post, to show s
 There are two files which needs to be referenced for Cordova to work. These are “cordova.js” and “platformOverrides.js”. Both files should be created when creating the project, and already included in the “index.html” which is created at creation. The first file is, quite obviously, Cordova itself, while the second one is where you can tell the app what it should do on startup, resume, shutdown etc. For this particular example I also included a reference to Google Maps API and its corresponding CSS file.
 
 The first lines I want to show off particularly is the lines which actually uses device features. The following lines uses the plugins for geolocation and notification to find your position, and popup a notification if a marker is clicked:
-```language-javascript
+```javascript
 var markerClicked = function (title) { 
 navigator.notification.alert("You clicked the " + title.title + " marker!", function () {});} 
 var getPosition = function () { navigator.geolocation.getCurrentPosition(showMap); }
@@ -64,7 +64,7 @@ var getPosition = function () { navigator.geolocation.getCurrentPosition(showMap
 
 Also to show how to use the position you get, this is the callback function from getPosition:
 
-```language-javascript
+```javascript
 var showMap = function (position) { var mapOptions = { zoom: 13, center: new google.maps.LatLng(position.coords.latitude, position.coords.longitude), mapTypeId: google.maps.MapTypeId.ROADMAP, mapTypeControl: false } map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions); addMarkers(); var input = document.getElementById("pac-input"); var searchBox = new google.maps.places.SearchBox(input); map.controls[google.maps.ControlPosition.TOP_CENTER].push(input); map.addListener('bounds_changed', function () { searchBox.setBounds(map.getBounds()); }); searchBox.addListener('places_changed', function () { var places = searchBox.getPlaces(); if (places.length == 0) { return; } map.setCenter(places[0].geometry.location); }); }
 ```
 Basically we use the position to create a new Google Map, centered on our location, and place this map into a div we have in the HTML. We also create a searchbox, where we can search for places, where we will move the map to the location of the place that was searched for.

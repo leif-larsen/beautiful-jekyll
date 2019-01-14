@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    All my life I've been using graphical user interfaces for applications that have provided it. It's been quicker to get into, and I have never really liked the command line. What I've noticed lately is that I've been trying to use the command line more. Just typing commands, instead of moving the mouse all over the screen, is generally quicker, which makes me more productive. This post is a reference for Git commands, mostly for myself, but hopefully others might find it useful as well. So lets dive right in!
+All my life I've been using graphical user interfaces for applications that have provided it. It's been quicker to get into, and I have never really liked the command line. What I've noticed lately is that I've been trying to use the command line more. Just typing commands, instead of moving the mouse all over the screen, is generally quicker, which makes me more productive. This post is a reference for Git commands, mostly for myself, but hopefully others might find it useful as well. So lets dive right in!
 
 For all this to make any sense, Git needs to be installed on your system. Downloads for Git can be found [here](https://git-scm.com/download/). I have both bash and gui installed.
 

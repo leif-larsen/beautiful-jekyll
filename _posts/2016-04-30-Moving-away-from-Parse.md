@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    As I wrote in my post, [Cloud based back end service](http://blog.leiflarsen.org/cloud-based-back-end-service/), I have been using Parse for data storage for my two apps, "Din Lokale Dyrlege" and "Parker Gratis". Now however, it is time for a change. Not because I want to, but I am forced to do so, since [Parse is shutting down](http://blog.parse.com/announcements/moving-on/).
+As I wrote in my post, [Cloud based back end service](http://blog.leiflarsen.org/cloud-based-back-end-service/), I have been using Parse for data storage for my two apps, "Din Lokale Dyrlege" and "Parker Gratis". Now however, it is time for a change. Not because I want to, but I am forced to do so, since [Parse is shutting down](http://blog.parse.com/announcements/moving-on/).
 
 ##New options
 

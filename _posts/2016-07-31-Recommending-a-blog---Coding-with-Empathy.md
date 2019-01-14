@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/07/CodingWithEmpathy.PNG
 ---
     
-    Today I'm starting a new series of post. Every last Sunday of each month I'll recommend a new blog. Each blog will be one I often read, and find worthwhile to spend time on. The posts will be kept short and to the point, to let you spend more time exploring the blog in questions yourself.
+Today I'm starting a new series of post. Every last Sunday of each month I'll recommend a new blog. Each blog will be one I often read, and find worthwhile to spend time on. The posts will be kept short and to the point, to let you spend more time exploring the blog in questions yourself.
 
 This Sunday I want to recommend <a href="http://codingwithempathy.com/" target="_blank">Coding with Empathy</a>, written by <a href="https://twitter.com/pavsaund" target="_blank">Pavneet Singh Saund</a>. It is a blog that puts a lot of focus on empathy in software development, and how we as developers can become better by focusing more on empathy and soft skills.
 

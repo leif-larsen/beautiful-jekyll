@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/11/Book.PNG
 ---
     
-    It's been a few months since my last post here. The reason for this, is that I'm currently writing a book, which I'm rather excited about. 
+It's been a few months since my last post here. The reason for this, is that I'm currently writing a book, which I'm rather excited about. 
 
 The book I'm writing is about Microsoft Cognitive Services, and is aimed at .NET developers. It aims to provide some introduction to the different APIs. The goal that the reader is able to use the services, for whatever ideas they might have. The book itself is called "Learning Microsoft Cognitive Services", and will be released by Packt Publishing.
 

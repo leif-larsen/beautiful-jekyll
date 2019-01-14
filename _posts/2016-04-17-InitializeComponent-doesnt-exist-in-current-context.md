@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/04/screenshot.png
 ---
     
-    At Build 2016 it was announced that Xamarin would be included with Visual Studio, at no extra cost. It would also be included with Visual Studio Community Edition, rendering it completely free, which is great news. Anyway, when the update for Visual Studio became available I installed it and went to test my Xamarin apps with Visual Studio. 
+At Build 2016 it was announced that Xamarin would be included with Visual Studio, at no extra cost. It would also be included with Visual Studio Community Edition, rendering it completely free, which is great news. Anyway, when the update for Visual Studio became available I installed it and went to test my Xamarin apps with Visual Studio. 
 
 Unfortunately, though, I ran into an issue with compilation. The compiler was complaining that <code>InitializeComponent()</code> did not exist in current context. This specific method is called in the constructor in the code-behind of a XAML file, and it is a method coming from the Xamarin package included. 
 

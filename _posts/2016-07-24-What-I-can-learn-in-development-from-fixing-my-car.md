@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    A few weeks back I had a problem with my car. The windscreen wiper wouldn't work, or it was rather slow when it did work. Being an older model car, I figured I could probably fix it myself. Long story short, I did fix it myself. 
+A few weeks back I had a problem with my car. The windscreen wiper wouldn't work, or it was rather slow when it did work. Being an older model car, I figured I could probably fix it myself. Long story short, I did fix it myself. 
 
 After I had fixed it, I started to think about the process I'd been through. Interestingly enough I discovered that there were at least a couple of things, which I could relate back to software development. 
 

@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    Day 2 of the course continued where we left of yesterday, namely with topics in regards to test-driven development. So far this day was the one with the most design patterns in it, as we went through a whole bunch in chapter 4. We also started on chapter 5, however I think it's best to leave my notes for that until we finish it on day 3. I see that chapter 3 comes out weirdly (split over two posts), so I'll write about the entire chapter 5 tomorrow.
+Day 2 of the course continued where we left of yesterday, namely with topics in regards to test-driven development. So far this day was the one with the most design patterns in it, as we went through a whole bunch in chapter 4. We also started on chapter 5, however I think it's best to leave my notes for that until we finish it on day 3. I see that chapter 3 comes out weirdly (split over two posts), so I'll write about the entire chapter 5 tomorrow.
 
 ##Chapter 3 Continued
 ###Refactoring

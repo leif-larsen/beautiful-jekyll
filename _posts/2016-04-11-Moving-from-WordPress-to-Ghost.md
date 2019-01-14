@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    Last week I [introduced](http://blog.leiflarsen.org/relaunching-the-blog/) my new blog, powered by the Ghost blog platform. Coming from a WordPress background, I had to do some work to get all my posts, as well as comments imported to the new blog. Seeing as I also put the new blog onto a subdomain, there was a few tricky parts during the setup. This blog post will take you through the steps required to make the move from WordPress to Ghost.
+Last week I [introduced](http://blog.leiflarsen.org/relaunching-the-blog/) my new blog, powered by the Ghost blog platform. Coming from a WordPress background, I had to do some work to get all my posts, as well as comments imported to the new blog. Seeing as I also put the new blog onto a subdomain, there was a few tricky parts during the setup. This blog post will take you through the steps required to make the move from WordPress to Ghost.
 
 ## Setting up Ghost
 
@@ -35,7 +35,7 @@ For my blog I decided to purchase a theme. The theme I found matched all my requ
 <code>echo "Hello World!";</code>
 
 For bigger snippets I would need something more. This is when I found [Prism](http://prismjs.com/) (no, not USA's surveillance program). This is basically a JavaScript and CSS library, where you can configure languages you need, and implement it into your code. It makes formatting code in blog posts a dream.
-```language-javascript
+```javascript
 function() {
    console.log("This is a JavaScript example");
 }

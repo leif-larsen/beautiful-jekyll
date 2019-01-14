@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/04/lucho-41.jpg
 ---
     
-    Ever since I started this blog, several years ago, I have been using WordPress as my platform. This has given me the options to maintain the entire site from one place, whether it has been static pages (such as about me, privacy policy for apps etc.), personal CV or the blog. Now it's time for me to change this up.
+Ever since I started this blog, several years ago, I have been using WordPress as my platform. This has given me the options to maintain the entire site from one place, whether it has been static pages (such as about me, privacy policy for apps etc.), personal CV or the blog. Now it's time for me to change this up.
 
 ## The reasons
 

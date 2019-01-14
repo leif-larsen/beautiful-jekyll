@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    I've spent this week in London, attending a course on [best practices and design patterns](https://www.learningtree.co.uk/courses/511/.net-best-practices-and-design-patterns/). The course was aimed at .NET developers, where the following was the main targets in terms of what we were to learn:
+I've spent this week in London, attending a course on [best practices and design patterns](https://www.learningtree.co.uk/courses/511/.net-best-practices-and-design-patterns/). The course was aimed at .NET developers, where the following was the main targets in terms of what we were to learn:
 >Solve complex programming problems using design patterns<br />
 >Deliver bug-free code using test-driven development in Visual Studio<br/>
 >Create layered architectures for reusability and eliminating functional duplication<br/>

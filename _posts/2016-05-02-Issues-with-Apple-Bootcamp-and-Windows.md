@@ -7,7 +7,7 @@ comments: true
 image: /img/
 ---
     
-    Over the last week, I've had some serious issues with my Windows 10 installation, running on my Mac Mini. It started early last week, where I had some difficulties with my wifi. The wifi have had issues earlier as well, but now I actually got sick of it, and though I'd try to fix it.
+Over the last week, I've had some serious issues with my Windows 10 installation, running on my Mac Mini. It started early last week, where I had some difficulties with my wifi. The wifi have had issues earlier as well, but now I actually got sick of it, and though I'd try to fix it.
 
 Bad idea! Having done my fair share of support involving drivers over the years, I decided to reinstall the network driver on Windows. This turned out to fail miserably, leaving me without network (my router is too far away to wire up the machine). Nothing I tried would work, so my next option was to repair the Windows installation. 
 
