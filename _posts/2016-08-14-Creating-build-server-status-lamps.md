@@ -7,7 +7,7 @@ comments: true
 image: /img/2016/08/IMG_1242.JPG
 ---
     
-    Today I decided to do some tinkering with some of the IoT stuff I have laying around. Quite recently I started on another personal project, which I will do quite a bit of work on over the next few months. I decided that it would be good to setup a build server for the project, to be able to build and test the project, so I don't break anything during development. 
+Today I decided to do some tinkering with some of the IoT stuff I have laying around. Quite recently I started on another personal project, which I will do quite a bit of work on over the next few months. I decided that it would be good to setup a build server for the project, to be able to build and test the project, so I don't break anything during development. 
 
 Since the project is built using C# I decided to set up a build definition in Visual Studio Online, which can get the source code from GitHub. Anyway, with the build definition set up, I thought it would be cool to get instant (or close to instant) feedback without browsing to the web site to see the result. Having a Particle Core (former Spark Core) I hooked it up with a couple of LEDs. The idea was to get a green light on successful build, and a red light on a failed build. Kind of like the build badge you typically find at many GitHub readmes. 
 
