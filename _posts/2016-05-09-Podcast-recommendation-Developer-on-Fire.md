@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Podcast recommendation: Developer on Fire
+title: Podcast recommendation - Developer on Fire
 gh-repo: leif-larsen/leif-larsen.github.io
 gh-badge: [star, fork, follow]
 comments: true
