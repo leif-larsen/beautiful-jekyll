@@ -4,7 +4,7 @@ title: On burning the candle from all sides
 gh-repo: leif-larsen/leif-larsen.github.io
 gh-badge: [star, fork, follow]
 comments: true
-image: /img/2019/02/blur-burn-burning.jpg
+#image: /img/2019/02/blur-burn-burning.jpg
 ---
 
 At the time of writing, it's been 2 years, 3 months and 25 days since my [last blog post](https://blog.leiflarsen.org/Writing-a-book/). Since that, I have released a book, released the follow-up version, and even a third edition. I have moved four times, including to a new city. I changed my job and joined a startup. I've met my significant other, and we just had our first child. 
