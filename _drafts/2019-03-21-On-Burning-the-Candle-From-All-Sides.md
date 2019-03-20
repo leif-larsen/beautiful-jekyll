@@ -88,3 +88,15 @@ These symptoms didn’t just appear over night, they all evolved over quite some
 I’m glad I went to the doctor when I did. Doing so made me catch this before it got too bad. It didn’t go as far as not being able to get out of bed, so it could have a been worse. Not that I’m undermining what I’ve gone through, because it’s been tough, and if I could have chosen between going through it or not, I would not want to go through it.
 
 One of the key take aways I'm left with, is the fact that it's ok to not work on any side projects at all times. It is ok to just spend time with family and friends, and I don't always have to do something to advance my career. I think that having a child will help me in maintaining this attitude, as I want to prioritize my family over anything else. 
+
+Another lesson is to actually take out enough vacation and use it to recharge the batteries. In Norway, we generally have 5 weeks of vacation within a year. In a typical year, I have used all the weeks, but usually it ends up with a week here, or a few days here, with the summer typically at 2 weeks. I actually cannot remember last time I had more than 2 weeks of vacation at once. Going forward I'll make sure I at least have 3 weeks of vacation during the summer. 
+
+Disconnecting from work, after working hours is also important. Working with tech allows us to always be available, through mail, chat apps etc. I have made a point out of not being available outside of office hours. This means I don't have notifications on my phone for work related apps, I don't have a home office setup anymore (still have a desk, but that's for my gaming rig and guitar practice), and I aim to not do any work at home. Obviously there might be times where I simply just have to, but that should be kept to a minimum. To be able to relax it is crucial to be able to disconnect. An effect of this is that I don't lay awake thinking about work related issues anymore, which is nice for a change.
+
+Staying active, both with running, and also making sure I get at least 30 minutes of activity on days I don't run, seems to boost my energy levels. This is something I will keep doing. It's not so much about achieving goals physically anymore, as it is about being active. This makes it easier for me to actually keep motivated to stay active. 
+
+Going forwards, I'll of course spend a lot of time with my girlfriend and newborn son. I might actively start blogging again, but I won't put any pressure on myself. I'm also looking at finding a new non-tech hobby, outside my house. If you have any suggestions to what I can try, please feel free to share! 
+
+I feel confident that I won't fall into the same traps, and end up in the same situation again. Hopefully, this post can help someone else to avoid ending up in the same situation, but mostly it's been good to get everything down in writing. 
+
+Have you experienced burn out? Have you seen signs that you have been heading there, and managed to stop before it was too late? 
