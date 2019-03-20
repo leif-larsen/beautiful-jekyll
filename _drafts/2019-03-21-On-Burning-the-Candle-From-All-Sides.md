@@ -53,9 +53,9 @@ I discussed this with close family, and my employers. Everyone was very understa
 
 ## Sick-leave
 
-I’ll tell you one thing. 6 weeks is a long time, when the longest break you’ve had from work in the past 10 years is 2 weeks. The first week, I had sort of abstinence. All work-related apps was deleted, and my computer hidden in the closet. I didn’t do anything other than laying in the couch watching tv-shows. It felt bad. The second week I gradually started feeling better, and I were able to start going for short walks outside. This was a part of the recovery plan. 
+I’ll tell you one thing. 6 weeks is a long time, when the longest break you’ve had from work in the past 10+ years is 2 weeks. The first week, I had sort of abstinence. All work-related apps was deleted from my phone, and my computer hidden in the closet. I didn’t do anything other than laying in the couch watching tv-shows. It felt bad. The second week I gradually started feeling better, and I were able to start going for short walks outside. This was a part of the recovery plan. 
 
-I managed to start working out again as well, which gave an energy boost. A part of the plan was also to leave all technical «work» for the entire period. I really felt an effect of doing so, as my motivation and curiosity started to rise again, after about four weeks. None of my coworkers contacted me with work related issues either, which was quite good. 
+A few weeks in, I managed to start working out again as well, which gave an energy boost. A part of the plan was also to leave all technical «work» for the entire period. I really felt an effect of doing so, as my motivation and curiosity started to rise again, after about four weeks. None of my coworkers contacted me with work related issues either, which was quite good. 
 
 ## Path to recovery
 
@@ -63,11 +63,13 @@ I did manage to follow the plan agreed with my doctor and employers. After about
 
 Being back at work felt great. I was happy to be back in a great social environment, and I was able to complete the tasks I set out to do. Following these two weeks, I increased the work time to 75% for the next two weeks. This allowed me to work more and do even more tasks. Once I got back at work full-time, I got some of my responsibilities back, but not nearly as much as I used to have. 
 
-Now I’ve been back for almost two months, and I’m greatly enjoying going into work again. I can tell that I’m still not at the capacity and efficiency that I used to have, but it’s a work in progress. At the same time, I have taken several steps outside of work, to be able to increase my energy levels, and disconnect from work. I came across an app called Fabulous, which aims to help you create new habits or remove old ones. It does so by taking small actions, one habit at the time, until the habit is a habit. Using this app, I have been able to create a bedtime routine, allowing me to sleep rather well (at least until the baby arrived :p). I’ve also created a morning routine, which kick starts the day, with energy, instead of the usual dragging myself out of bed. This includes working out, and as such, I have established a routine of going for a run three times a day. 
+Now I’ve been back for almost two months, and I’m greatly enjoying going into work again. I can tell that I’m still not at the capacity and efficiency that I used to have, but it’s a work in progress. At the same time, I have taken several steps outside of work, to be able to increase my energy levels, and disconnect from work. 
+
+I came across an app called Fabulous, which aims to help you create new habits or remove bad ones. It does so by taking small actions, one habit at the time, until the action is a habit. Using this app, I have been able to create a bedtime routine, allowing me to sleep rather well (at least until the baby arrived :p). I’ve also created a morning routine, which kick starts the day, with energy, instead of the usual dragging myself out of bed. This includes working out, and as such, I have established a routine of going for a run three times a week. 
 
 ## Ignoring the symptoms
 
-I believe my story explains rather well why it went wrong. Looking back, I can see that I should have slowed down earlier. But it’s always to say that in retrospect, and not always to realize once you’re in the middle of it. I have always been on the lookout for the signs of burnout, but failed to notice them when they came creeping in. 
+I believe my story explains rather well why it went wrong. Looking back, I can see that I should have slowed down earlier. But it’s always easy to say that in retrospect, and not always to realize once you’re in the middle of it. I have always been on the lookout for the signs of burnout, but failed to notice them when they came creeping in. 
 
 The following list describes the symptoms I know I’ve had. I’ve tried to order them according to when they showed up, but my recollection might be wrong. 
 
@@ -89,7 +91,7 @@ I’m glad I went to the doctor when I did. Doing so made me catch this before i
 
 One of the key take-aways I'm left with, is the fact that it's ok to not work on any side projects at all times. It is ok to just spend time with family and friends, and I don't always have to do something to advance my career. I think that having a child will help me in maintaining this attitude, as I want to prioritize my family over anything else. 
 
-Another lesson is to take out enough vacation and use it to recharge the batteries. In Norway, we generally have 5 weeks of vacation within a year. In a typical year, I have used all the weeks, but usually it ends up with a week here, or a few days here, with the summer typically at 2 weeks. I actually cannot remember last time I had more than 2 weeks of vacation at once. Going forward I'll make sure I at least have 3 weeks of vacation during the summer. 
+Another lesson is to take out enough vacation and use it to recharge the batteries. In Norway, we generally have 5 weeks of vacation within a year. In a typical year, I have used all the weeks, but usually it ends up with a week here, or a few days here, with the summer vacation typically being 2 weeks. I actually cannot remember last time I had more than 2 weeks of vacation at once. Going forward I'll make sure I at least have 3 weeks of vacation during the summer, and schedule the rest in a reasonable way.
 
 Disconnecting from work, after working hours is also important. Working with tech allows us to always be available, through mail, chat apps etc. I have made a point out of not being available outside of office hours. This means I don't have notifications on my phone for work related apps, I don't have a home office setup anymore (still have a desk, but that's for my gaming rig and guitar practice), and I aim to not do any work at home. Obviously, there might be times where I simply just have to, but that should be kept to a minimum. To be able to relax it is crucial to be able to disconnect. An effect of this is that I don't lay awake thinking about work related issues anymore, which is nice for a change.
 
