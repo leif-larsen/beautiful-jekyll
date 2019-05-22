@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/leif_larsen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.leiflarsen.org
+  * I am leif_larsen (https://keybase.io/leif_larsen) on keybase.
+  * I have a public key ASChlcQlXOJfyyZak13XcHBH19Dy8Wl3B-ATh8JLiMUtrgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c0cd024123fb004f850c82ffe141cf84cb275b63de03d50cc577b1ffdde5b0730a",
+      "host": "keybase.io",
+      "kid": "0120a195c4255ce25fcb265a935dd7707047d7d0f2f1697707e01387c24b88c52dae0a",
+      "uid": "e4c55d9232fa98c5e751ba709b1fa919",
+      "username": "leif_larsen"
+    },
+    "merkle_root": {
+      "ctime": 1558528767,
+      "hash": "4dd27db9f306c05386d51990c1077bd053668bd3155bfe77fc330481f5dada769b8c43c30a629be633798e472565076536875c31714d24e78f8d054d32a1b9ac",
+      "hash_meta": "d88738e7f2f9ee76739c1e7c3a1f801eb2e9577b3c662982a18b2fe17be6fa96",
+      "seqno": 5425223
+    },
+    "service": {
+      "entropy": "BR8s240BOG4lBtnvBT9kimMZ",
+      "hostname": "blog.leiflarsen.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558528780,
+  "expire_in": 504576000,
+  "prev": "366425bc17122bfa116ddd4e81ea14ddf2bff6521de4104fd2ce040da394588f",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoZXEJVziX8smWpNd13BwR9fQ8vFpdwfgE4fCS4jFLa4Kp3BheWxvYWTESpcCHcQgNmQlvBcSK/oRbd1OgeoU3fK/9lId5BBP0s4EDaOUWI/EIKGdrYlnEGSG9/9PA9B9qradsMnAYrlr+ku5rEiP4eLiAgHCo3NpZ8RAc9WBrJ3+rvxYSlFOJXDuxvi/Q6j03q2pAvvMvo8BrN61Cimw4nWZ+ycM5n+noI4KtZzDHcYCloig67IsyJCyCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG/X+EggJaijSw50VaDQRatNM9jVWNQFmc7cqaR5YSB3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leif_larsen
+
+==================================================================
