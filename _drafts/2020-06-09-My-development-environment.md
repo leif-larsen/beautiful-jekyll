@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Development Environment 
+title: The Ultimate Win10 Development Experience
 gh-repo: leif-larsen/leif-larsen.github.io
 gh-badge: [star, fork, follow]
 comments: true
@@ -17,8 +17,6 @@ It's a powerful computer, powered by an Intel Core i7-9750H CPU, with 6 cores. I
 
 ## The basics
 
-### Windows 10 insider
-### PowerToys
 ### WSL2
 
 ## Tools and toys
@@ -43,8 +41,4 @@ It's a powerful computer, powered by an Intel Core i7-9750H CPU, with 6 cores. I
 
 ### Windows Terminal
 
-#### Configuring Windows Terminal
-
 ### VS Code
-
-#### Configuring VS Code 
