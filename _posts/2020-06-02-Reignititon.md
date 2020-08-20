@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Reignition 
+title: Reignition
 gh-repo: leif-larsen/leif-larsen.github.io
-gh-badge: [star, fork, follow]
+gh-badge:
+  - star
+  - fork
+  - follow
 comments: true
-#image: /img/2019/02/blur-burn-burning.jpg
+published: true
 ---
 
 After about 2,5 years, or so, at Intelecy and the startup life, I have decided to move into another direction. As of today, I have joined [Novanet](https://novanet.no) as a senior consultant. 
@@ -13,7 +16,7 @@ After about 2,5 years, or so, at Intelecy and the startup life, I have decided t
 
 It was no easy decision to change my job. It was one that comes as a late response to my [burnout last year](https://blog.leiflarsen.org/On-Burning-the-Candle-From-All-Sides/). After I came back to work, it took a while before I felt I was back in the game a 100%. Even though we tried quite a few things, to facilitate my work situation, I kind of felt some of the previous symptoms sneaking up on me again.
 
-In late December 2019, it was my turn to stay home with my son, and I went on paternity leave. It was supposed to last until mid-May. After about a month or so, I realized that I felt relaxed (and if you have kids, you know it's not relaxing to take care of them!) and that something inside me didn't want to return to my job. Reflecting on this over some time I realized a few things. 
+In late December 2019, it was my turn to stay home with my son, and I went on paternity leave. It was supposed to last until mid-May. After about a month or so, I realized that I felt relaxed (and if you have kids, you know it's not relaxing to take care of them!) and that something inside me didn't want to return to my job. Reflecting on this over some time I realized a few things.   
 
 When I got the opportunity to join the startup, I was single, didn't have a kid, and was ready to work as hard as a startup required. When becoming a father, I did not manage to put my mind to ease with balancing startup life and family life. Even though it was not expected externally, internally I certainly had expectations of how much I would work, working for a startup. Consistently feeling that I'm not putting in enough hours (even though I put in the required hours) kept draining my energy and happiness levels. 
 
