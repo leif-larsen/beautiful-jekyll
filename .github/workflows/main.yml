@@ -2,8 +2,8 @@
 name: Refresh
 
 on:
-  schedule:
-    - cron:  '5 22 * * *' # Runs every day at 3am
+  push:
+    branches: main
 
 jobs:
   refresh:
